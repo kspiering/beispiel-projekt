@@ -8,5 +8,6 @@
 body {
     min-height: 100vh;
     color: white;
-    
+    background: black;
+    font-family: monospace;
 }
