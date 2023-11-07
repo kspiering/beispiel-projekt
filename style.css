@@ -10,4 +10,8 @@ body {
     color: white;
     background: black;
     font-family: monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 5rem;
 }
